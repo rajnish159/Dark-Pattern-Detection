@@ -1,8 +1,9 @@
+
+![Screenshot (303)](https://github.com/rajnish159/Dark-Pattern-Detection/assets/108886478/bac2259c-0042-4255-bf15-cc93dcc83a5d)
+
 **1. Introduction**
 The Dark Pattern Detection Extension is a tool designed to identify and counteract dark patterns on websites. 
-Dark patterns are user interface design choices crafted to trick users into making decisions they might not 
-otherwise make. This extension helps users by providing insights into detected dark patterns on the websites 
-they visit. 
+Dark patterns are user interface design choices crafted to trick users into making decisions they might not otherwise make. This extension helps users by providing insights into detected dark patterns on the websites they visit. 
 **2. Installation**** 
 The Dark Pattern Detection Extension is not limited to Chrome; it can also be installed on Opera, Edge, and 
 Firefox. However, for Chrome users, follow these steps: 
